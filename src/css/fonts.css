@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Nexa Regular";
+  src: local("Nexa"), url(../assets/fonts/NexaRegular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NexaHeavy";
+  src: local("Nexa"), url(../assets/fonts/NexaHeavy.ttf) format("truetype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NexaLight";
+  src: local("Nexa"), url(../assets/fonts/NexaLight.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Migra Medium";
+  src: local("Migra"), url(../assets/fonts/Migra-Medium.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MigraSemibold";
+  src: local("Migra"),
+    url(../assets/fonts/Migra-Semibold.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
